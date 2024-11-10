@@ -1,5 +1,9 @@
 # Visual-Desktop
 
+Nama : Abdul Aziz
+Nim : 312210022
+Kelas : TI 22.C3
+
 # Tampilan Awal Sistem
 ![image](https://github.com/user-attachments/assets/ca771465-1f57-4ce6-9aae-38250279a004)
 
